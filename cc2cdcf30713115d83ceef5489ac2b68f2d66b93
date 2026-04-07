@@ -1,0 +1,25 @@
+resend.com.mail.json
+  4bd88c7c1c1e190a 30-36
+resend.com.mail-send-and-receive.json
+  4bd88c7c1c1e190a 6,41-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "cc2cdcf30713115d83ceef5489ac2b68f2d66b93",
+  "prompts": {
+    "4bd88c7c1c1e190a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "05b0f863-054c-4a88-b94b-a3d21c5b2bd4",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Cassio Zen",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 1,
+      "accepted_lines": 15,
+      "overriden_lines": 0
+    }
+  }
+}
