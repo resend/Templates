@@ -1,0 +1,23 @@
+resend.com.mail.json
+  2c4e517f5991c03c 6,13,21,28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "f1994bbd854628448bc749d3dd0f6701f5af825f",
+  "prompts": {
+    "2c4e517f5991c03c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "caa67374-4b2c-4259-9d9e-6018dfb9953a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
