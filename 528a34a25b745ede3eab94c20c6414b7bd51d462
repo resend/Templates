@@ -1,0 +1,23 @@
+resend.com.click-tracking.json
+  2c4e517f5991c03c 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "528a34a25b745ede3eab94c20c6414b7bd51d462",
+  "prompts": {
+    "2c4e517f5991c03c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "caa67374-4b2c-4259-9d9e-6018dfb9953a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Cassio Zen",
+      "messages": [],
+      "total_additions": 39,
+      "total_deletions": 36,
+      "accepted_lines": 27,
+      "overriden_lines": 3
+    }
+  }
+}
