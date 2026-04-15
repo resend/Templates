@@ -1,0 +1,9 @@
+resend.com.mail.json
+  2c4e517f5991c03c 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "c856a8c80a5996f7d7b11f4e6d46c23a93a5b5bc",
+  "prompts": {}
+}
