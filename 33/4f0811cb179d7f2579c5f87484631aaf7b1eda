@@ -1,0 +1,23 @@
+resend.com.sso.json
+  0e3521af3f4c34df 17-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "334f0811cb179d7f2579c5f87484631aaf7b1eda",
+  "prompts": {
+    "0e3521af3f4c34df": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f12f373d-37b4-40b4-9487-9ac56f95876c",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Cassio Zen",
+      "messages": [],
+      "total_additions": 34,
+      "total_deletions": 3,
+      "accepted_lines": 33,
+      "overriden_lines": 0
+    }
+  }
+}
