@@ -1,0 +1,14 @@
+resend.com.click-tracking.json
+  h_553460321382bb 6,22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "4584195a6e210ca5257f76155d81bd6fd87b6fba",
+  "prompts": {},
+  "humans": {
+    "h_553460321382bb": {
+      "author": "Cassio Zen"
+    }
+  }
+}
