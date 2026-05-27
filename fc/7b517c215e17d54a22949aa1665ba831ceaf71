@@ -1,0 +1,14 @@
+resend.com.domain-verification.json
+  h_506d0d833c777f 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "fc7b517c215e17d54a22949aa1665ba831ceaf71",
+  "prompts": {},
+  "humans": {
+    "h_506d0d833c777f": {
+      "author": "Cassio Zen <cassiozen@gmail.com>"
+    }
+  }
+}
